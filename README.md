@@ -173,3 +173,7 @@
 ### TodayNews
 [传送](https://github.com/yewei02538/TodayNews)
 > 一个仿今日头条的开源项目
+
+### android-training-course-in-chinese
+[传送](https://github.com/kesenhoo/android-training-course-in-chinese)
+> Android官方培训课程中文版
