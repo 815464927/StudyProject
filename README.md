@@ -177,3 +177,8 @@
 ### android-training-course-in-chinese
 [传送](https://github.com/kesenhoo/android-training-course-in-chinese)
 > Android官方培训课程中文版
+
+### Some AndroidStudio Plugin
+> AndroidStudio 的一些插件 非常好用 方便开发
+* https://github.com/ydmmocoo/Android-Studio-Plugins
+* https://github.com/b2b2244424/AndroidStudioSuperPlugin
