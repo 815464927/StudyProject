@@ -178,8 +178,12 @@
 > Android官方培训课程中文版
 * https://github.com/kesenhoo/android-training-course-in-chinese
 
-
 ### Some AndroidStudio Plugin
 > AndroidStudio 的一些插件 非常好用 方便开发
 * https://github.com/ydmmocoo/Android-Studio-Plugins
 * https://github.com/b2b2244424/AndroidStudioSuperPlugin
+
+### Robust
+> 美图团队的热修复 Robust is an Android HotFix solution with high compatibility and high stability.Robust can fix bug immediately without publishing apk.
+* https://github.com/Meituan-Dianping/Robust
+
