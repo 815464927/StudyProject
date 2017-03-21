@@ -187,3 +187,13 @@
 > 美图团队的热修复 Robust is an Android HotFix solution with high compatibility and high stability.Robust can fix bug immediately without publishing apk.
 * https://github.com/Meituan-Dianping/Robust
 
+### LeafPic
+> LeafPic is an ad-free, open-source and material-designed android gallery alternative. LeafPic是你可以尝试和学习的最佳开源相册程序之一。
+它非常简单，容易理解，适合任何一个初级开发者。从这个app中我发现的最好的东西就是它实现动态主题的方式。这可是许多开发者费劲千辛万苦想要做好的东西。
+* https://github.com/HoraApps/LeafPic
+
+### AutoplayVideos
+> Android library to auto-play/pause videos from url in recyclerview. 在 RecyclerView 中，实现类似 Tumblr 的滑动到自动播放视频效果。
+* https://github.com/Krupen/AutoplayVideos
+
+
