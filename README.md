@@ -196,4 +196,11 @@
 > Android library to auto-play/pause videos from url in recyclerview. 在 RecyclerView 中，实现类似 Tumblr 的滑动到自动播放视频效果。
 * https://github.com/Krupen/AutoplayVideos
 
+### ZhihuDailyPurify
+> Purified version of Zhihu Daily - 更纯净的知乎日报
+* https://github.com/izzyleung/ZhihuDailyPurify
+
+### ZhihuReader
+> 非官方的知乎日报，一款基于Retrofit + Rxjava + MVP + MD的APP。
+* https://github.com/NianguoWang/ZhihuReader-master
 
