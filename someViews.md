@@ -12,3 +12,6 @@
 > ActivitySwitcher 是一个基于 Activity 视图操作管理库，可以实现 Activity 之间任意跳转、关闭任意一个 Activity 以及结束应用程序等功能
 * https://github.com/Hitomis/ActivitySwitcher
 
+### SlidingRootNav
+> DrawerLayout-like ViewGroup, where a "drawer" is hidden under the content view, which can be shifted to make the drawer visible.
+* https://github.com/yarolegovich/SlidingRootNav
