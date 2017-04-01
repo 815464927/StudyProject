@@ -15,3 +15,8 @@
 ### SlidingRootNav
 > DrawerLayout-like ViewGroup, where a "drawer" is hidden under the content view, which can be shifted to make the drawer visible.
 * https://github.com/yarolegovich/SlidingRootNav
+
+### Album
+> MD 风格的相册选择工具，支持多选，拍照等功能，项目很规范、实用。
+Android MaterialDesign-style albums, gallery. Support multi-select, radio, camera support, support preview picture of the selected, preview can be configured whether the anti-election.
+* https://github.com/yanzhenjie/Album
