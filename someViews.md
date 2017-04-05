@@ -28,3 +28,7 @@ Android MaterialDesign-style albums, gallery. Support multi-select, radio, camer
 ### cropiwa
 > Configurable Custom Crop widget for Android
 * https://github.com/steelkiwi/cropiwa
+
+### ParallaxRecyclerView
+> 一个带视差折叠效果的 RecyclerView
+* https://github.com/SouthernBox/ParallaxRecyclerView
