@@ -20,3 +20,11 @@
 > MD 风格的相册选择工具，支持多选，拍照等功能，项目很规范、实用。
 Android MaterialDesign-style albums, gallery. Support multi-select, radio, camera support, support preview picture of the selected, preview can be configured whether the anti-election.
 * https://github.com/yanzhenjie/Album
+
+### IconSwitch
+> :lollipop: Custom Android Switch widget
+* https://github.com/polyak01/IconSwitch
+
+### cropiwa
+> Configurable Custom Crop widget for Android
+* https://github.com/steelkiwi/cropiwa
