@@ -32,3 +32,13 @@ Android MaterialDesign-style albums, gallery. Support multi-select, radio, camer
 ### ParallaxRecyclerView
 > 一个带视差折叠效果的 RecyclerView
 * https://github.com/SouthernBox/ParallaxRecyclerView
+
+### FireworkyPullToRefresh
+> 烟花效果的下拉刷新
+* https://github.com/Cleveroad/FireworkyPullToRefresh
+
+### PatternLockView
+> 手势解锁
+* https://github.com/aritraroy/PatternLockView
+
+
