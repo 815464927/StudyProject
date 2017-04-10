@@ -31,3 +31,17 @@
 ### Pedometer
 > 一个简单，轻量的计步器app，使用硬件传感器计算步数，而且对电池的消耗非常小。对学习计步功能而言是不错的项目，但是编码规范和设计还有待优化。
 * https://github.com/j4velin/Pedometer
+
+### vlayout
+> 阿里巴巴的Android开源库。VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。
+* https://github.com/alibaba/vlayout
+
+### 高斯模糊
+* https://github.com/500px/500px-android-blur
+* https://github.com/jrvansuita/GaussianBlur
+* https://github.com/gogopop/BlurKit-Android
+
+### 文本效果
+* https://github.com/klinker24/Android-TextView-LinkBuilder
+* https://github.com/lawloretienne/Trestle
+* https://github.com/binaryfork/Spanny
