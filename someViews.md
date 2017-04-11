@@ -41,4 +41,9 @@ Android MaterialDesign-style albums, gallery. Support multi-select, radio, camer
 > 手势解锁
 * https://github.com/aritraroy/PatternLockView
 
+### material
+> A library to bring fully animated Material Design components to pre-Lolipop Android
+一大波materialDesign自定义控件，直接拿来用
+* https://github.com/rey5137/material
+
 
