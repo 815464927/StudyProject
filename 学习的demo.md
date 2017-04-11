@@ -45,3 +45,7 @@
 * https://github.com/klinker24/Android-TextView-LinkBuilder
 * https://github.com/lawloretienne/Trestle
 * https://github.com/binaryfork/Spanny
+
+### WeiXinRecordedDemo
+> 仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑
+* https://github.com/Zhaoss/WeiXinRecordedDemo
