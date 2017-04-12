@@ -46,4 +46,9 @@ Android MaterialDesign-style albums, gallery. Support multi-select, radio, camer
 一大波materialDesign自定义控件，直接拿来用
 * https://github.com/rey5137/material
 
+### banner
+> 图片轮播器
+* https://github.com/saiwu-bigkoo/Android-ConvenientBanner
+* https://github.com/youth5201314/banner
+
 
