@@ -8,3 +8,9 @@
 ### McImage
 > Gradle 插件：使用McImage极致压缩apk中图片百分之70大小 Android Gradle Plugin -- Check big image and compress image in building
 *  https://github.com/Mobcase/McImage
+
+### Android图片压缩
+> Compressor可以满足动则几MB的图片高保真的压缩到几十KB的效果
+* https://github.com/zetbaitsu/Compressor
+> Luban（鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略。
+* https://github.com/Curzibn/Luban
