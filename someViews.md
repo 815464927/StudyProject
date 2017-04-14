@@ -51,4 +51,7 @@ Android MaterialDesign-style albums, gallery. Support multi-select, radio, camer
 * https://github.com/saiwu-bigkoo/Android-ConvenientBanner
 * https://github.com/youth5201314/banner
 
+### Android弹屏
+* https://github.com/hpdx/DanmukuLight
+* https://github.com/Xieyupeng520/AZBarrage
 
