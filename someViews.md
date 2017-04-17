@@ -55,3 +55,7 @@ Android MaterialDesign-style albums, gallery. Support multi-select, radio, camer
 * https://github.com/hpdx/DanmukuLight
 * https://github.com/Xieyupeng520/AZBarrage
 
+
+### BezierViewPager
+> 用贝塞尔做的indicator，效果炫酷~
+* https://github.com/qdxxxx/BezierViewPager
