@@ -59,3 +59,7 @@ Android MaterialDesign-style albums, gallery. Support multi-select, radio, camer
 ### BezierViewPager
 > 用贝塞尔做的indicator，效果炫酷~
 * https://github.com/qdxxxx/BezierViewPager
+
+### expanding-collection-android
+> Ramotion 出品：Android 页面展开效果
+* https://github.com/Ramotion/expanding-collection-android
