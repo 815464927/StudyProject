@@ -49,3 +49,7 @@
 ### WeiXinRecordedDemo
 > 仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑
 * https://github.com/Zhaoss/WeiXinRecordedDemo
+
+### title
+> CNode社区非官方客户端
+* https://github.com/shellljx/CNode-android
