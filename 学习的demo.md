@@ -53,3 +53,7 @@
 ### CNode-android
 > CNode社区非官方客户端
 * https://github.com/shellljx/CNode-android
+
+### Android源码分析
+> android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！
+* https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis
