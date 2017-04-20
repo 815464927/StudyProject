@@ -57,3 +57,7 @@
 ### Android源码分析
 > android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！
 * https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis
+
+### title
+> 跟随手势滑动，显示隐藏标题栏、底部导航栏及悬浮按钮
+* https://github.com/Lauzy/LBehavior
