@@ -14,3 +14,7 @@
 * https://github.com/zetbaitsu/Compressor
 > Luban（鲁班） —— Android图片压缩工具，仿微信朋友圈压缩策略。
 * https://github.com/Curzibn/Luban
+
+* MoreImage
+> 一步步实现打开相机连续拍照拿到多张照片
+* https://github.com/385841539/MoreImage
