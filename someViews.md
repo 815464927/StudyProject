@@ -58,3 +58,7 @@
 ### expanding-collection-android
 > Ramotion 出品：Android 页面展开效果
 * https://github.com/Ramotion/expanding-collection-android
+
+### SearchableSpinner
+> 支持搜索的spinner
+* https://github.com/miteshpithadiya/SearchableSpinner
