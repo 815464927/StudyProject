@@ -22,3 +22,10 @@
 ### FingerprintIdentify
 > :+1:安卓指纹识别库（安卓官方+三星SDK+魅族SDK）
 * https://github.com/uccmawei/FingerprintIdentify
+
+### 图片选择器
+> :fireworks: A well-designed local image selector for Android
+* https://github.com/zhihu/Matisse
+
+> Android MaterialDesign-style albums, gallery. Support multi-select, radio, camera support, support preview picture of the selected, preview can be configured whether the anti-election.
+* https://github.com/yanzhenjie/Album
