@@ -18,3 +18,7 @@
 ### MoreImage
 > 一步步实现打开相机连续拍照拿到多张照片
 * https://github.com/385841539/MoreImage
+
+### FingerprintIdentify
+> :+1:安卓指纹识别库（安卓官方+三星SDK+魅族SDK）
+* https://github.com/uccmawei/FingerprintIdentify
