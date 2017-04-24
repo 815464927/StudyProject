@@ -58,6 +58,12 @@
 > android sdk 源码解析——旨在帮助Android开发者更好的学习Android！我们只是一群普通的程序员，但是，我们热爱分享，想热热闹闹的玩点有意义的事！
 * https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis
 
-### title
+### LBehavior
 > 跟随手势滑动，显示隐藏标题栏、底部导航栏及悬浮按钮
 * https://github.com/Lauzy/LBehavior
+
+### LQRWeChat
+> 仿微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能。
+* https://github.com/GitLqr/LQRWeChat
+
+
