@@ -29,3 +29,6 @@
 
 > Android MaterialDesign-style albums, gallery. Support multi-select, radio, camera support, support preview picture of the selected, preview can be configured whether the anti-election.
 * https://github.com/yanzhenjie/Album
+
+> The ImageSelect tool based on RxJava.
+* https://github.com/imuhao/RxPicker
