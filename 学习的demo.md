@@ -66,4 +66,6 @@
 > 仿微信6.5.7（除图片选择器外），基于融云SDK，使用目前较火的 Rxjava+Retrofit+MVP+Glide 技术开发。相比上个版本，加入发送位置消息，红包消息等功能。
 * https://github.com/GitLqr/LQRWeChat
 
-
+### PonyMusic
+> 波尼音乐 OkHttp+Gson+Material Design Online Music Player
+* https://github.com/wangchenyan/PonyMusic
