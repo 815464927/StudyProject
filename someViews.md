@@ -45,6 +45,8 @@
 > 图片轮播器
 * https://github.com/saiwu-bigkoo/Android-ConvenientBanner
 * https://github.com/youth5201314/banner
+> 小小横幅广告轮播控件
+* https://github.com/czy1121/bannerview
 
 ### Android弹屏
 * https://github.com/hpdx/DanmukuLight
@@ -62,3 +64,4 @@
 ### SearchableSpinner
 > 支持搜索的spinner
 * https://github.com/miteshpithadiya/SearchableSpinner
+
