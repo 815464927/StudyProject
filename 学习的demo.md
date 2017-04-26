@@ -70,6 +70,6 @@
 > 波尼音乐 OkHttp+Gson+Material Design Online Music Player
 * https://github.com/wangchenyan/PonyMusic
 
-### title
+### 单Activity+多Fragment
 > "单Activity ＋ 多Fragment"
 * https://github.com/YoKeyword/Fragmentation
