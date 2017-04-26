@@ -34,3 +34,6 @@
 
 > The ImageSelect tool based on RxJava.
 * https://github.com/imuhao/RxPicker
+
+> 单纯的上传图片展示控件
+* https://github.com/yaozs/ImageShowPicker
