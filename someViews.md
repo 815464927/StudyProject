@@ -65,3 +65,6 @@
 > 支持搜索的spinner
 * https://github.com/miteshpithadiya/SearchableSpinner
 
+### PaletteImageView
+> 为图片添加阴影，阴影颜色来源于图片的主色
+* https://github.com/DingMouRen/PaletteImageView
