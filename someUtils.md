@@ -37,3 +37,7 @@
 
 > 单纯的上传图片展示控件
 * https://github.com/yaozs/ImageShowPicker
+
+### 指纹识别
+> APP一秒接入指纹识别SDK，0奔溃，0闪退，炒鸡稳定！额外支持三星和魅族6.0以下系统
+* https://github.com/uccmawei/FingerprintIdentify?tt=22
