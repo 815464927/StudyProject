@@ -41,3 +41,7 @@
 ### 指纹识别
 > APP一秒接入指纹识别SDK，0奔溃，0闪退，炒鸡稳定！额外支持三星和魅族6.0以下系统
 * https://github.com/uccmawei/FingerprintIdentify?tt=22
+
+### android-shake-detector
+> Android 晃动检测小工具。
+* https://github.com/safetysystemtechnology/android-shake-detector
