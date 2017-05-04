@@ -45,3 +45,11 @@
 ### android-shake-detector
 > Android 晃动检测小工具。
 * https://github.com/safetysystemtechnology/android-shake-detector
+
+### 加载和提交按钮
+* https://github.com/leandroBorgesFerreira/LoadingButtonAndroid
+* https://github.com/Someonewow/SubmitButton
+
+### 二维码生成器
+> 一个优雅的 QR 二维码生成器
+* https://github.com/SumiMakito/AwesomeQRCode
