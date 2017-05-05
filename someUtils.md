@@ -46,9 +46,10 @@
 > Android 晃动检测小工具。
 * https://github.com/safetysystemtechnology/android-shake-detector
 
-### 加载和提交按钮
+### 加载和提交Button
 * https://github.com/leandroBorgesFerreira/LoadingButtonAndroid
 * https://github.com/Someonewow/SubmitButton
+* https://github.com/lygttpod/AndroidCustomView
 
 ### 二维码生成器
 > 一个优雅的 QR 二维码生成器
