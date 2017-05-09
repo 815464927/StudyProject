@@ -68,3 +68,7 @@
 ### PaletteImageView
 > 为图片添加阴影，阴影颜色来源于图片的主色
 * https://github.com/DingMouRen/PaletteImageView
+
+### ParticleTextView
+> 一个用粒子动画显示文字的Android组件: 一个用粒子动画显示文字的 Android 自定义 View
+* https://github.com/Yasic/ParticleTextView
