@@ -72,3 +72,7 @@
 ### ParticleTextView
 > 一个用粒子动画显示文字的Android组件: 一个用粒子动画显示文字的 Android 自定义 View
 * https://github.com/Yasic/ParticleTextView
+
+### title
+> aurora-imui：极光推送开源的通用IM聊天UI组件,通用 IM 聊天 UI 组件，已经同时支持 Android/iOS。
+* https://github.com/jpush/aurora-imui
