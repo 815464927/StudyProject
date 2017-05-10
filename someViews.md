@@ -64,6 +64,10 @@
 > 垂直滚动TextView
 * https://github.com/jingle1267/AutoScrollTextView
 
+### UpMarqueeTextView-master
+> 仿淘宝首页的淘宝头条垂直滚动
+* https://github.com/dreamlivemeng/UpMarqueeTextView-master
+
 ### ViewPagerIndicator
 > Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
 * https://github.com/JakeWharton/ViewPagerIndicator
