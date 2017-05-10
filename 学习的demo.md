@@ -1,5 +1,69 @@
 # 不断学习
 
+### ListenerMusicPlayer
+> 一款优雅的遵循 Material Design 的开源音乐播放器，UI参考 腾讯轻听 音乐播放器,使用 Lastfm Api 与 酷狗歌词Api。项目架构采用 mvp-clean，基于 Retrofit2 + Dagger2 + Rxjava + RxBus + Glide。
+* https://github.com/hefuyicoder/ListenerMusicPlayer
+
+### Phonograph
+> A material designed music player for Android 据说它已经拥有百万级别的下载量！
+* https://github.com/kabouzeid/Phonograph
+
+### CloudReader
+> 云阅：一款基于网易云音乐UI，使用Gank.Io及豆瓣api开发的符合Google Material Design的Android开源项目。项目采取的是MVVM-DataBinding架构开发，现主要包括：干货区、电影区和书籍区三个子模块。DIY网易云音乐原来是如此Cool~
+* https://github.com/youlookwhat/CloudReader
+
+### SimpleNews
+> 基于Material Design和MVP的新闻客户端 
+* https://github.com/liuling07/SimpleNews
+
+### Douya
+> 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）
+* https://github.com/DreaminginCodeZH/Douya
+
+### MyDiary
+[](https://github.com/erttyy8821/MyDiary)
+> In the Movie "-your name.-" (君の名は。, 你的名字) , "My Diary" of android version is.
+
+### ByeBurger
+> An Android behavior library let your titlebar or bottom navigation hiding on scroll ,极其简便的快速实现滑动隐藏标题栏和导航栏
+* https://github.com/githubwing/ByeBurger
+
+### BookReader
+> "任阅" 网络小说阅读器，实现追书推荐收藏、书籍/标签检索、模拟翻书的翻页效果、缓存书籍、日夜间模式、书签、txt/pdf/epub书籍阅读、字体/主题/亮度设置、Wifi传书等功能~
+* https://github.com/JustWayward/BookReader
+
+### react-native
+> A framework for building native apps with React.
+* https://github.com/facebook/react-native
+
+### weiciyuan
+> Sina Weibo Android Client
+* https://github.com/qii/weiciyuan
+
+### android-open-project-analysis
+> Analysis implementation of android open source project
+* https://github.com/android-cn/android-open-project-analysis
+
+### Meizhi
+> gank.io unofficial client, RxJava & Retrofit. (The project is no longer actively maintained, we have a better project: https://github.com/drakeet/rebase-android)
+* https://github.com/drakeet/Meizhi
+
+### TodayNews
+> 一个仿今日头条的开源项目
+* https://github.com/yewei02538/TodayNews
+
+### AutoplayVideos
+> Android library to auto-play/pause videos from url in recyclerview. 在 RecyclerView 中，实现类似 Tumblr 的滑动到自动播放视频效果。
+* https://github.com/Krupen/AutoplayVideos
+
+### ZhihuDailyPurify
+> Purified version of Zhihu Daily - 更纯净的知乎日报
+* https://github.com/izzyleung/ZhihuDailyPurify
+
+### ZhihuReader
+> 非官方的知乎日报，一款基于Retrofit + Rxjava + MVP + MD的APP。
+* https://github.com/NianguoWang/ZhihuReader-master
+
 ### 段子手
 > 基于Rxjava+Retrofit+Okhttp+leancloud的完整项目（段子手），供大家学习与交流
 * https://github.com/wenzhihao123/Android-rxjava-retrofit-okhttp-app
