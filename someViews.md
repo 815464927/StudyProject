@@ -81,3 +81,7 @@
 > 泡泡效果的索引滚动控件
 * https://github.com/cdflynn/bubble-scroll
 
+### 360Downloading
+> 一个仿360手机助手下载按钮
+* https://github.com/1002326270xc/360Downloading-master
+
