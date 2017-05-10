@@ -1,5 +1,78 @@
 # 一些自定义View
 
+### AndroidScreenSlidePager
+> Full screen slide pager to display images fetched from Internet by Fresco
+* https://github.com/LyndonChin/AndroidScreenSlidePager
+
+### PullToRefreshAndLoad
+> Android下拉刷新上拉加载控件，对所有View通用！
+* https://github.com/jingchenUSTC/PullToRefreshAndLoad
+
+### SwipeRefreshLayoutDemo
+> SwipeRefreshLayout demo 
+* https://github.com/puma007/SwipeRefreshLayoutDemo
+
+### SwipeRefreshLayout
+> An extension of android.support.v4.widget.SwipeRefreshLayout with loading more function for ListView
+* https://github.com/zhoujiangang0911/SwipeRefreshLayout
+
+### WheelView
+> WheelView TimePicker CityPicker 滚轮（联动）选择器
+* https://github.com/helloJp/WheelView
+
+### CircleIndicator
+> A lightweight viewpager indicator!
+* https://github.com/THEONE10211024/CircleIndicator
+
+### Phoenix
+> Phoenix Pull-to-Refresh
+* https://github.com/Yalantis/Phoenix
+
+### LRecyclerView
+> RecyclerView下拉刷新，自动加载更多；仿IOS侧滑Item删除菜单 
+* https://github.com/jdsjlzx/LRecyclerView
+
+### BGARefreshLayout-Android
+> 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
+* https://github.com/bingoogolapple/BGARefreshLayout-Android
+
+### SlideMenu
+>  A simple SlideMenu library with two menu behind content for Android developer, just feel free to fork, this project need your contribution.
+* https://github.com/TangKe/SlideMenu
+
+### mupdf
+> read pdf for android
+* https://github.com/muennich/mupdf
+
+### BadgeView
+> a BadeView base on android
+* https://github.com/AlexLiuSheng/BadgeView
+
+### Android-PickerView
+> This is a picker view for android , support linkage effect, timepicker and optionspicker.（时间选择器、省市区三级联动）
+* https://github.com/Bigkoo/Android-PickerView
+
+### android-pdfview
+> A fast PDF reader component for Android development
+* https://github.com/JoanZapata/android-pdfview
+
+### AnimRefreshRecyclerView 
+> 下拉刷新和上拉加载更多的RecyclerView，具有下拉和刷新动画。
+* https://github.com/shichaohui/AnimRefreshRecyclerView
+
+### AutoScrollTextView
+> 垂直滚动TextView
+* https://github.com/jingle1267/AutoScrollTextView
+
+### ViewPagerIndicator
+> Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
+* https://github.com/JakeWharton/ViewPagerIndicator
+
+### LeafPic
+> LeafPic is an ad-free, open-source and material-designed android gallery alternative. LeafPic是你可以尝试和学习的最佳开源相册程序之一。
+它非常简单，容易理解，适合任何一个初级开发者。从这个app中我发现的最好的东西就是它实现动态主题的方式。这可是许多开发者费劲千辛万苦想要做好的东西。
+* https://github.com/HoraApps/LeafPic
+
 ### ZoomHeader
 > A demo of animation show how turn viewpager into detail.神交互。模仿饿了么详情页可以跟随手指移动 viewpager变详情页
 * https://github.com/githubwing/ZoomHeader
@@ -51,7 +124,6 @@
 ### Android弹屏
 * https://github.com/hpdx/DanmukuLight
 * https://github.com/Xieyupeng520/AZBarrage
-
 
 ### BezierViewPager
 > 用贝塞尔做的indicator，效果炫酷~
