@@ -1,6 +1,38 @@
 
 # Utils
 
+### JustWeTools
+> Some useful tools
+* https://github.com/lfkdsk/JustWeTools
+
+### RxJava
+> RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+* https://github.com/ReactiveX/RxJava
+
+### RxAndroid
+> RxJava bindings for Android
+* https://github.com/ReactiveX/RxAndroid
+
+### Sketch
+> Sketch是Android上一个强大且全面的图片加载器，支持GIF，手势缩放以及分块显示超大图片。Sketch is a powerful and comprehensive image loader on Android, with support for GIF, gesture zooming, block display super large image
+* https://github.com/xiaopansky/Sketch
+
+### picasso
+> A powerful image downloading and caching library for Android
+* https://github.com/square/picasso)
+
+### xUtils3
+> android orm, bitmap, http, view inject...
+* https://github.com/wyouflf/xUtils3
+
+### BGAQRCode-Android
+> QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
+* https://github.com/bingoogolapple/BGAQRCode-Android
+
+### okhttputils
+> okhttp的辅助类
+* https://github.com/hongyangAndroid/okhttputils
+
 ### TranslationPlugin
 > JetBrains IDE/Android Studio 翻译插件，支持中英互译、单词朗读。
 * https://github.com/YiiGuxing/TranslationPlugin
