@@ -1,4 +1,4 @@
-# keep study
+# keep learning
 
 ### ListenerMusicPlayer
 > 一款优雅的遵循 Material Design 的开源音乐播放器，UI参考 腾讯轻听 音乐播放器,使用 Lastfm Api 与 酷狗歌词Api。项目架构采用 mvp-clean，基于 Retrofit2 + Dagger2 + Rxjava + RxBus + Glide。
