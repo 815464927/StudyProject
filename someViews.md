@@ -161,3 +161,6 @@
 > 一个仿360手机助手下载按钮
 * https://github.com/1002326270xc/360Downloading-master
 
+### pile-layout
+> 横向堆叠效果的自定义Layout
+* https://github.com/xmuSistone/android-pile-layout
