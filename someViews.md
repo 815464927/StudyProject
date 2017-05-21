@@ -164,3 +164,11 @@
 ### pile-layout
 > 横向堆叠效果的自定义Layout
 * https://github.com/xmuSistone/android-pile-layout
+
+### IdentityImageView
+> 一个能带进度条的图片框架，同时有身份标识动能，简单易用
+* https://github.com/385841539/IdentityImageView
+
+### PasswordView
+> 下划线（方框）密码输入框
+* https://github.com/EoniJJ/PasswordView
