@@ -176,3 +176,11 @@
 ### MaterialDesignDemo
 > Material Design 兼容性控件学习
 * https://github.com/GitLqr/MaterialDesignDemo
+
+### ProgressView
+> Android自定义多种风格进度控件
+* https://github.com/WhiteDG/ProgressView
+
+### ShimmerLayout
+> Loading 状态的闪烁效果，类似 Facebook 的加载，做的很漂亮
+* https://github.com/team-supercharge/ShimmerLayout
