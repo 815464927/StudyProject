@@ -184,3 +184,11 @@
 ### ShimmerLayout
 > Loading 状态的闪烁效果，类似 Facebook 的加载，做的很漂亮
 * https://github.com/team-supercharge/ShimmerLayout
+
+### RotatingText
+> 记分牌效果的单词轮换，在落地页可能会用到，很漂亮
+* https://github.com/sdsmdg/RotatingText
+
+### search-dialog
+> 快速搜索
+* https://github.com/mirrajabi/search-dialog
