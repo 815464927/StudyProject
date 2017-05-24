@@ -192,3 +192,7 @@
 ### search-dialog
 > 快速搜索
 * https://github.com/mirrajabi/search-dialog
+
+### MagicSurfaceView
+> 一个使用openGL渲染的炫丽Android动画库 MagicSurfaceView
+* https://github.com/gplibs/android-magic-surface-view
