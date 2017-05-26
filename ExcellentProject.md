@@ -153,3 +153,7 @@
 ### Tucao
 > 吐槽第三方Android客户端
 * https://github.com/blackbbc/Tucao
+
+### GSD_WeiXin
+> 高仿微信
+* https://github.com/gsdios/GSD_WeiXin
