@@ -196,3 +196,7 @@
 ### MagicSurfaceView
 > 一个使用openGL渲染的炫丽Android动画库 MagicSurfaceView
 * https://github.com/gplibs/android-magic-surface-view
+
+### 会滚动的TextView
+> 会滚动的TextView,仿余额宝的滚动效果
+* https://github.com/chaychan/PowerfulViewLibrary
