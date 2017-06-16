@@ -193,6 +193,10 @@
 > 快速搜索
 * https://github.com/mirrajabi/search-dialog
 
+### BilibiliSearchView
+> 漂亮的波纹展开式搜索效果
+* https://github.com/didixyy/BilibiliSearchView
+
 ### MagicSurfaceView
 > 一个使用openGL渲染的炫丽Android动画库 MagicSurfaceView
 * https://github.com/gplibs/android-magic-surface-view
@@ -200,3 +204,11 @@
 ### 会滚动的TextView
 > 会滚动的TextView,仿余额宝的滚动效果
 * https://github.com/chaychan/PowerfulViewLibrary
+
+### StickyDecoration
+> RecyclerView：利用打造悬浮效果
+* https://github.com/Gavin-ZYX/StickyDecoration
+
+### ImageNice9Layout
+> 仿Nice首页图片列表9图样式，并实现拖拽效果 
+* https://github.com/wobiancao/ImageNice9Layout
