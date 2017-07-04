@@ -212,3 +212,7 @@
 ### ImageNice9Layout
 > 仿Nice首页图片列表9图样式，并实现拖拽效果 
 * https://github.com/wobiancao/ImageNice9Layout
+
+### 过滤器
+>  animate Floating Action Button to Bottom Sheet Dialog and vice-versa
+* https://github.com/Krupen/FabulousFilter
