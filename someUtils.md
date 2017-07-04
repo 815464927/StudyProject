@@ -86,3 +86,7 @@
 ### 二维码生成器
 > 一个优雅的 QR 二维码生成器
 * https://github.com/SumiMakito/AwesomeQRCode
+
+### Camera 封装 Api
+> Making Camera for Android more friendly.
+* https://github.com/Fotoapparat/Fotoapparat
