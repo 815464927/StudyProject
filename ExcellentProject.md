@@ -157,3 +157,7 @@
 ### GSD_WeiXin
 > 高仿微信
 * https://github.com/gsdios/GSD_WeiXin
+
+### 开源社交app
+> 一个后台基于bmob的开源社交app
+* https://github.com/HelloChenJinJun/TestChat
