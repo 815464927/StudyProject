@@ -234,4 +234,27 @@
 > 透明状态栏导航栏、沉浸式状态栏导航栏的终极解决方案
 * https://github.com/Zackratos/UltimateBar
 
+### SuperCalendar
+> 自定义日历控件
+* https://github.com/MagicMashRoom/SuperCalendar
+
+### CardSlideView
+> 一行代码实现ViewPager卡片效果，支持无限循环
+* https://github.com/crazysunj/CardSlideView
+
+### 仿新浪微博导航条
+> 仿新浪微博导航条
+* https://github.com/xujianhui404/ViewPagerFlexTitle/tree/dev-1.0.1
+
+### SmileView
+> 仿《最美有物》笑脸点赞控件
+* https://github.com/zenglingchao/SmileView
+
+### AlipayHome
+>  实现支付宝首页交互效果
+* https://github.com/kyleduo/ExamplesFromMyBlog/tree/master/AlipayHome
+
+
+
+
 
