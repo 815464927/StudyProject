@@ -254,7 +254,11 @@
 >  实现支付宝首页交互效果
 * https://github.com/kyleduo/ExamplesFromMyBlog/tree/master/AlipayHome
 
+### WeChatPublishImagesDrag
+> 仿微信发布图片拖拽和删除功能
+* https://github.com/kuyue/WeChatPublishImagesDrag
 
-
-
+### DoodleView
+> 用于涂鸦的自定义 View
+* https://github.com/developerHaoz/DoodleView
 
