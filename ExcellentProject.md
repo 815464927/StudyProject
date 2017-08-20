@@ -169,3 +169,8 @@
 ### QBox
 > 小秋魔盒
 * https://github.com/OCNYang/QBox
+
+### update
+> 下载更新
+* https://github.com/teprinciple/UpdateAppDemo
+
