@@ -18,3 +18,8 @@
 > 一个用Kotlin写的简单漫画APP
 * https://github.com/wuapnjie/PoiShuhui-Kotlin
 
+### kotlin
+> 使用Kotlin撸一款Eyepetizer，学习Kotlin语言
+* https://github.com/LRH1993/Eyepetizer-in-Kotlin
+
+
