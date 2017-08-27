@@ -262,3 +262,14 @@
 > 用于涂鸦的自定义 View
 * https://github.com/developerHaoz/DoodleView
 
+### BezierView
+> 自定义View之添加银行卡动画
+* https://github.com/MrAllRight/BezierView
+
+### CardStackView
+> Android卡片式折叠交互效果
+* https://github.com/loopeer/CardStackView
+
+
+
+
