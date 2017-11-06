@@ -294,7 +294,31 @@
 > BouncingBallView 碰撞的小球
 * https://github.com/imurluck/BouncingBallView
 
+### CustomRefreshView
+> 一个支持网络错误重试，无数据页（可自定义），无网络界面（可自定义）的上拉加载更多，下拉刷新控件
+* https://github.com/zhangtuodd/CustomRefreshView
 
+### ApkBusBlog
+> 安卓巴士博客非官方客户端
+* https://github.com/BolexLiu/ApkBusBlog
 
+### SaleProgressView
+>  仿淘宝 淘抢购进度条
+* https://github.com/zhlucky/SaleProgressView
+
+### superFileView
+> Android上展示word、excel、pdf、ppt~
+* https://github.com/ZhongXiaoHong/superFileView
+
+### SlideAdapter
+> RecycleView 侧滑菜单、添加头部底部、加载更多
+* https://github.com/yhaolpz/SlideAdapter
+
+### AndroidDigIn
+* https://github.com/halohoop/AndroidDigIn#24带文字的波浪
+
+### RecyclerViewRefreshDemo
+> 封装RecyclerView自动加载更多 & 下拉刷新
+* https://github.com/alidili/Demos/tree/master/RecyclerViewRefreshDemo
 
 
