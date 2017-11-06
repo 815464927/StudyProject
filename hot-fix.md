@@ -9,3 +9,7 @@
 ### 美团的热修复
 > Robust is an Android HotFix solution with high compatibility and high stability.Robust can fix bug immediately without publishing apk.
 * https://github.com/Meituan-Dianping/Robust
+
+### TinkerGradleDemo
+> Tinker热修复之 —— Gradle接入
+* https://github.com/BigSweet/TinkerGradleDemo
