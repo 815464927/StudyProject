@@ -321,4 +321,15 @@
 > 封装RecyclerView自动加载更多 & 下拉刷新
 * https://github.com/alidili/Demos/tree/master/RecyclerViewRefreshDemo
 
+### AbilityMapView
+> 仿LOL掌盟能力七星图控件
+* https://github.com/qq908323236/AbilityMapView
+
+### EasyPullLayout
+> A light Pull to Refresh Layout that support both VERTICAL and HORIZONTAL.
+* https://github.com/huzenan/EasyPullLayout
+
+
+
+
 
