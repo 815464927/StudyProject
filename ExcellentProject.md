@@ -178,3 +178,29 @@
 > GankIO客户端
 * https://github.com/yangxiaobinhaoshuai/NewGank
 
+### diycode客户端
+* https://github.com/GcsSloop/diycode
+
+### 咕咚翻译app
+* https://github.com/maoruibin/TranslateApp
+
+### 开眼视频学习项目
+* https://github.com/LRH1993/Eyepetizer-in-Kotlin
+
+### 仿今日头条学习项目
+* https://github.com/iMeiji/Toutiao
+
+### 高仿斗鱼TV项目
+* https://github.com/TeamCodeForGit/DouYu
+
+
+
+
+
+
+
+
+
+
+
+
